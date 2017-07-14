@@ -57,6 +57,8 @@
     [palyBtn2 setTitleColor:[UIColor redColor] forState:UIControlStateNormal];
     
     NSLog(@"test");
+    NSLog(@"123213");
+    NSLog(@"dffs ");
 
     
 }
