@@ -56,6 +56,9 @@
     [palyBtn2 addTarget:self action:@selector(palyBtn2Clicked) forControlEvents:UIControlEventTouchUpInside];
     [palyBtn2 setTitleColor:[UIColor redColor] forState:UIControlStateNormal];
     
+    NSLog(@"test");
+
+    
 }
 
 
